@@ -8,6 +8,7 @@
 다음 해당 논문 주제 클릭 시
  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/여기에_노트북_URL을_입력하세요)에서 코드를 공유합니다.
 
+
 |**논문 주제**|**참고문헌**|
 |---|----|
 [Bag of Words]()
